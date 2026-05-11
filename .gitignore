@@ -13,6 +13,9 @@ __pycache__/
 # Backup files not used in program
 BackUp Game Data*
 
+# Game Files do not need to be stored
+GameFiles*
+
 # Lock files (if you add later)
 *.lock
 
