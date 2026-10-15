@@ -1,4 +1,5 @@
 # 🎲 Controlled Chaos
+
 ### A Game Randomizer (Rainbow Six Siege & Helldivers 2)
 
 A Python tool that randomly assigns unique operators, stratagems, and boosters to players  
@@ -111,14 +112,16 @@ python3 main.py
 ---
 
 ## 📜 License
+
 This project is licensed under the MIT License.
 
 ---
+
 ## 👤 Author
 
 **Jason Anderson**  
 _Computer Science Student_  
 _Interests: Programming • Cybersecurity • Data Science_  
-GitHub: [@AnEdgeCase](https://github.com/MapNotIncluded)
+GitHub: [@AnEdgeCase](https://github.com/AnEdgeCase)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
